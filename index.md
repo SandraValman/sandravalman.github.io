@@ -23,8 +23,8 @@
     </header>
       <nav>
         <div class="content nav">
-          <a href="index.md" class="button clickLink">Start</a>
-          <a href="contact.md"class="button clickLink">Contact me</a>
+          <a href="index.html" class="button clickLink">Start</a>
+          <a href="contact.html"class="button clickLink">Contact me</a>
         </div>
       </nav>
       <div class="content">
@@ -34,7 +34,6 @@
           Through my nonprofit work within Pink Programming, I want to help more women and non-binary dares to step into the tech world.
         </p>
         <h2>Education</h2>
-
           <h3>Aug 2019 - current</h3>
             <p>Nackademin<br />
               <em>Web Developer .NET CMS</em></p>
