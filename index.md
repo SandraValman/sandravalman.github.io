@@ -53,16 +53,6 @@
             <h3>Sep 2017 - July 2018</h3>
             <p>Skärgårdstadsskolan, Österåker municipality<br />
                 <em>School counselor</em></p>
-        <!-- <h2>Körkort</h2>
-        <ul class="skills">
-          <li>B-körkort</li>
-        </ul>
-        <h2>Språkkunskaper</h2>
-        <ul class="skills">
-          <li>Svenska</li>
-          <li>Engelska</li>
-          <li>Singalesiska</li>
-        </ul> -->
         <a href="#top" class="button clickLink top">Go to top of the page</a>
       </div>
   </body>
