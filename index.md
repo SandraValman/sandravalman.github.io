@@ -24,7 +24,7 @@
       <nav>
         <div class="content nav">
           <a href="index.md" class="button clickLink">Start</a>
-          <a href="Contact.md"class="button clickLink">Kontakta mig</a>
+          <a href="contact.md"class="button clickLink">Contact me</a>
         </div>
       </nav>
       <div class="content">
